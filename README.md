@@ -37,7 +37,7 @@ This is a minimal, static website built with **semantic HTML**, **CSS**, and a s
   - Proper accessibility (ARIA, contrast checks)
   - Asset minification
   - A component or framework strategy
-- As-is, this is a solid *foundation*, not a finished product.
+- As-is, this is a solid _foundation_, not a finished product.
 
 ## License
 
